@@ -15,7 +15,7 @@
 
 <h2>Task 2 - Exploratory Data Analysis (EDA)</h2>
 
-<p>Objective: Analyze and understand the structure and key characteristics of the dataset.
+Objective: Analyze and understand the structure and key characteristics of the dataset.
 
 Steps and Findings:
 
@@ -43,10 +43,10 @@ Identified strong and weak relationships between numerical features.
 Checked for missing values.
 Used appropriate imputation strategies to handle missing data.
 7. Outlier Detection:
-Used box plots to identify and analyze outliers.</p>
+Used box plots to identify and analyze outliers.
 
 <h2>Task 3 - Feature Engineering</h2>
-<p>Objective: Create new features that can improve the model's performance.
+Objective: Create new features that can improve the model's performance.
 Steps and Findings:
 1. Feature Extraction:
 Extracted relevant features from existing ones.Total Transaction Amount, Average Transaction Amount, Transaction Count, Standard Deviation of Transaction Amounts were calculated for each customer.
@@ -70,6 +70,7 @@ Conducted WoE binning for categorical variables, transforming them into numerica
 
 <h2>Task 4 - Modelling</h2>
 Objective: Train and evaluate machine learning models to predict Credit Risk.
+
 Steps and Findings:
 1. Model Selection :
 Selected 5 models: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and Support.
