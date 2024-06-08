@@ -20,34 +20,37 @@ Objective: Analyze and understand the structure and key characteristics of the d
 Steps and Findings:
 
 1. Overview of the Data:
-
 Inspected the number of rows, columns, and data types.
 Dataset contains n rows and m columns.
+
 2. Summary Statistics:
-
 Calculated mean, median, standard deviation, min, and max for numerical features.
-3. Distribution of Numerical Features:
 
+3. Distribution of Numerical Features:
 Visualized the distribution of numerical features using histograms.
 Identified skewness and potential outliers.
-4. Distribution of Categorical Features:
 
+4. Distribution of Categorical Features:
 Visualized the distribution of numerical features using bar plots.
 Observed the frequency and variability of categories.
-5. Correlation Analysis:
 
+5. Correlation Analysis:
 Generated a correlation matrix.
 Identified strong and weak relationships between numerical features.
-6. Identifying Missing Values:
 
+6. Identifying Missing Values:
 Checked for missing values.
 Used appropriate imputation strategies to handle missing data.
+
 7. Outlier Detection:
 Used box plots to identify and analyze outliers.
 
 <h2>Task 3 - Feature Engineering</h2>
+
 Objective: Create new features that can improve the model's performance.
+
 Steps and Findings:
+
 1. Feature Extraction:
 Extracted relevant features from existing ones.Total Transaction Amount, Average Transaction Amount, Transaction Count, Standard Deviation of Transaction Amounts were calculated for each customer.
 2. Extract Features:
