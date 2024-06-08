@@ -1,21 +1,21 @@
-﻿<h1>Credit risk analystis for Bati-Bank<h1>
+﻿<h1>Credit risk analystis for Bati-Bank</h1>
 
-Project Overview
-This project encompasses a comprehensive analysis of credit risk, including data understanding, exploratory data analysis, feature engineering, and model building. The following tasks were completed:
+<h2>Project Overview</h2>
+<p>This project encompasses a comprehensive analysis of credit risk, including data understanding, exploratory data analysis, feature engineering, and model building. The following tasks were completed:
 
 1. Task 1 - Understanding Credit Risk
 2. Task 2 - Exploratory Data Analysis (EDA)
 3. Task 3 - Feature Engineering
 4. Task 3.1 - Default Estimator and WoE Binning
-5. Task 4 - model building
+5. Task 4 - model building</p>
 
-Task 1 - Understanding Credit Risk
+<h2>Task 1 - Understanding Credit Risk</h2>
 
-The project began with an in-depth understanding of credit risk, including the types of credit risk, factors strating from the terminology. 
+<p>The project began with an in-depth understanding of credit risk, including the types of credit risk, factors strating from the terminology. </p>
 
-Task 2 - Exploratory Data Analysis (EDA)
+<h2>Task 2 - Exploratory Data Analysis (EDA)</h2>
 
-Objective: Analyze and understand the structure and key characteristics of the dataset.
+<p>Objective: Analyze and understand the structure and key characteristics of the dataset.
 
 Steps and Findings:
 
@@ -43,10 +43,10 @@ Identified strong and weak relationships between numerical features.
 Checked for missing values.
 Used appropriate imputation strategies to handle missing data.
 7. Outlier Detection:
-Used box plots to identify and analyze outliers.
+Used box plots to identify and analyze outliers.</p>
 
-Task 3 - Feature Engineering
-Objective: Create new features that can improve the model's performance.
+<h2>Task 3 - Feature Engineering</h2>
+<p>Objective: Create new features that can improve the model's performance.
 Steps and Findings:
 1. Feature Extraction:
 Extracted relevant features from existing ones.Total Transaction Amount, Average Transaction Amount, Transaction Count, Standard Deviation of Transaction Amounts were calculated for each customer.
@@ -59,7 +59,7 @@ Imputed missing values using mean and median imputation.
 5. Normalize/Standardize Numerical Features:
 Normalized numerical features using Min-Max Scaler and Standard Scaler.
 
-Task 3.1 - Default Estimator and WoE Binning
+<h2>Task 3.1 - Default Estimator and WoE Binning</h2>
 Objective: 
 
 Steps and Findings:
@@ -68,7 +68,7 @@ Used the default estimator to calculate the WoE (Weight of Evidence) for each fe
 2. WoE Binning :
 Conducted WoE binning for categorical variables, transforming them into numerical values that hold significant predictive power.
 
-Task 4 - Modelling
+<h2>Task 4 - Modelling</h2>
 Objective: Train and evaluate machine learning models to predict Credit Risk.
 Steps and Findings:
 1. Model Selection :
